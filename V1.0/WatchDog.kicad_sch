@@ -1839,7 +1839,7 @@
 			)
 		)
 		(property "Value" "Earth"
-			(at 106.68 107.95 0)
+			(at 106.68 106.68 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
